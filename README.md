@@ -1,1 +1,1 @@
-# Javascripty
+# Javascript
